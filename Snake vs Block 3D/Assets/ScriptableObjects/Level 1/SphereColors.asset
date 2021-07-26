@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c63d46f827f7f4bb13a6029d9cd8af, type: 3}
+  m_Name: SphereColors
+  m_EditorClassIdentifier: 
+  colors:
+  - {r: 1, g: 0.6367924, b: 0.6367924, a: 0}
+  - {r: 0.4906105, g: 0.70314497, b: 0.990566, a: 0}
+  - {r: 0.9297959, g: 1, b: 0.4292453, a: 0}
+  - {r: 0.6698113, g: 0.4120069, b: 0.3443841, a: 0}
+  - {r: 0.41509432, g: 0.123353496, b: 0.123353496, a: 0}
+  - {r: 0.5922549, g: 0.24207903, b: 0.6037736, a: 0}
+  - {r: 0.4326455, g: 0.7264151, b: 0.38719293, a: 0}
+  - {r: 0.4448202, g: 0.6642026, b: 0.7924528, a: 0}
+  - {r: 0.9556836, g: 1, b: 0, a: 0}
+  - {r: 0.6037736, g: 0, b: 0.19247897, a: 0}

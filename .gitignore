@@ -58,3 +58,23 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+Snake vs Block 3D/Assets/TextMesh Pro
+Snake vs Block 3D/Library/
+
+
+Snake vs Block 3D/*.meta
+Snake vs Block 3D/*.prefab
+
+Snake vs Block 3D/*/*.meta
+Snake vs Block 3D/*/*.prefab
+
+
+Snake vs Block 3D/**/*.meta
+Snake vs Block 3D/**/*.prefab
+
+Snake vs Block 3D/***/*.meta
+Snake vs Block 3D/***/*.prefab
+
+Snake vs Block 3D/****/*.meta
+Snake vs Block 3D/****/*.prefab
